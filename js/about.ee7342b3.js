@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_wedding_website"]=self["webpackChunkvue_wedding_website"]||[]).push([[443],{4335:function(e,n,u){u.r(n),u.d(n,{default:function(){return w}});var t=u(3396);const s={class:"about"},i=(0,t._)("h1",null,"This is an about page",-1),a=[i];function r(e,n){return(0,t.wg)(),(0,t.iD)("div",s,a)}var c=u(89);const d={},o=(0,c.Z)(d,[["render",r]]);var w=o}}]);
+//# sourceMappingURL=about.ee7342b3.js.map
